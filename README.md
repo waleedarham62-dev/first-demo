@@ -1,4 +1,4 @@
 # first-demo
 first work on github
 <br>
-author M Sufyan (nfirst)
+author M Sufyan (khota)
